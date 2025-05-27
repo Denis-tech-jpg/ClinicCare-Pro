@@ -1,6 +1,5 @@
-
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { Calendar, Users, Clock, CheckCircle } from "lucide-react";
+import { Calendar, Users, Clock, CheckCircle, Bell } from "lucide-react";
 
 export const DashboardOverview = () => {
   const stats = [
