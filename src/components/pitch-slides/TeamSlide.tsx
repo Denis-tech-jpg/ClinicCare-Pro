@@ -1,4 +1,3 @@
-
 import { Users, Award, Code, Briefcase } from "lucide-react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
@@ -30,7 +29,7 @@ export const TeamSlide = () => {
   const advisors = [
     { name: "Jennifer Walsh", role: "Former CMO, Practice Fusion" },
     { name: "David Kim", role: "Healthcare VC, Andreessen Horowitz" },
-    { name: "Dr. Lisa Thompson", role: "Chief Innovation Officer, Mayo Clinic" }
+    { name: "Mr. Denis Oyugi", role: "Chief Innovation Officer, Mayo Clinic" }
   ];
 
   return (
