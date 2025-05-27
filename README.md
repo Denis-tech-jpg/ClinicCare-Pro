@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# ClinicCare-Pro project
 
 ## Project info
 
@@ -50,7 +50,7 @@ npm run dev
 - Click on "New codespace" to launch a new Codespace environment.
 - Edit files directly within the Codespace and commit and push your changes once you're done.
 
-## What technologies are used for this project?
+## Technologies used for this project?
 
 This project is built with:
 
@@ -60,11 +60,11 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
+## How can to deploy this project?
 
 Simply open [Lovable](https://lovable.dev/projects/9fc096d2-226c-4384-b8be-9457fceeb95e) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
+## Can you connect a custom domain to this project?
 
 Yes, you can!
 
